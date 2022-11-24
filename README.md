@@ -1,2 +1,6 @@
 # kahoot-quiz-to-moodle
- Convert a Quiz from Kahoot for import into Moodle LMS
+Convert a quiz created using Kahoot template spreadsheet for import into Moodle LMS
+
+## References
+
+* [Kahoot spreadsheet template for importing a quiz](https://kahoot.com/library/quiz-spreadsheet-template/)
